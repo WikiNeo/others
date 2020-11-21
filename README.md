@@ -3,6 +3,10 @@
 ## Start
 
 ```bash
+bundle exec jekyll serve
+
+OR
+
 docker-compose up
 ```
 

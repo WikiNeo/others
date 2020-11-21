@@ -16,3 +16,5 @@ defaults:
     values:
       layout: "post"
 
+
+repository:  "trusty-patches-mint/trusty-patches-mint.github.io"
