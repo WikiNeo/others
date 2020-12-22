@@ -28,7 +28,7 @@ tags: Gaming
 |18|Ko|
 |19|Fal|
 |20|Lem|
-|21|Pum|
+|21|Pul|
 |22|Um|
 |23|Mal|
 |24|Ist|
