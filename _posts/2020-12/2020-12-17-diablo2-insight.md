@@ -6,7 +6,7 @@ tags: Gaming
 
 - Item types: nonmagic `polearms`, `staves` with exactly 4 sockets
 - `RalTirTalSol`
-- `#8 #3 #7 #11`
+- `#8 #3 #7 #12`
 
 
 
