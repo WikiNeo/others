@@ -4,7 +4,7 @@ published: true
 tags: Gaming
 ---
 
-![Diablo 2 Polearms](../../assets/Diablo2-polearms.PNG)
+![Diablo 2 Polearms](/../../assets/Diablo2-polearms.PNG)
 
 ## References
 

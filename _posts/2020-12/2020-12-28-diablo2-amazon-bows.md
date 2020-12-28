@@ -4,7 +4,7 @@ published: true
 tags: Gaming
 ---
 
-![Diablo 2 Amazon Bows](../../assets/diablo2-amazon-bows.PNG)
+![Diablo 2 Amazon Bows](/../../assets/diablo2-amazon-bows.PNG)
 
 ## Reference
 
