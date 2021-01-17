@@ -24,6 +24,8 @@ tags: 随笔
   - Golang
   - Node.js
   - TypeScript
+- Test
+  - Jest
 
 ## Mathematics
 
