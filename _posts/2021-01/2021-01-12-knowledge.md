@@ -12,6 +12,7 @@ tags: 随笔
   - Express.js
   - React.js
   - Ruby on Rails
+    - sidekiq
 - Logging
   - Fluentd
 - Markup Language
@@ -25,6 +26,7 @@ tags: 随笔
   - Javascript
   - Golang
   - Node.js
+  - Ruby
   - TypeScript
 - Test
   - Jest
