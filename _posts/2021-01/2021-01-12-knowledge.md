@@ -8,10 +8,8 @@ tags: 随笔
 
 - API Design
   - Swagger
-- Web Framework
-  - Express.js
-  - React.js
-  - Ruby on Rails
+- CI
+  - GitHub Actions
 - Logging
   - Fluentd
 - Markup Language
@@ -28,6 +26,10 @@ tags: 随笔
   - TypeScript
 - Test
   - Jest
+- Web Framework
+  - Express.js
+  - React.js
+  - Ruby on Rails
 
 ## Mathematics
 
