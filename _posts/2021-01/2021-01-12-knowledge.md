@@ -1,6 +1,6 @@
 ---
 title: "Knowledge that I have"
-published: true
+published: false
 tags: 随笔
 ---
 
@@ -13,6 +13,7 @@ tags: 随笔
   - React.js
   - Ruby on Rails
     - sidekiq
+  - Socket.io
 - Logging
   - Fluentd
 - Markup Language
