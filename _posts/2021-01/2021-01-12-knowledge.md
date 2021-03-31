@@ -10,6 +10,8 @@ tags: 随笔
   - Swagger
 - CI
   - GitHub Actions
+- Database
+  - MySQL
 - Web Framework
   - Express.js
   - React.js
