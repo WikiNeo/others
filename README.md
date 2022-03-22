@@ -12,10 +12,8 @@ docker-compose up
 
 ## Generate Tags
 
-Note the extra `/` for Windows
-
 ```bash
-docker run --rm -v /"$PWD"://usr/src/app -w //usr/src/app python:3 python tag_generator.py
+python generate_tags.py
 ```
 
 ## References
