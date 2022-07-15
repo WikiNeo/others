@@ -12,6 +12,6 @@ plugins:
   - jekyll-stickyposts
 
 paginate: 30
-paginate_path: "/blog/page:num/"
+paginate_path: "/others/blog/page:num/"
 
 repository:  "trusty-patches-mint/trusty-patches-mint.github.io" 
