@@ -6,7 +6,7 @@ tags: English
 
 ## adjective
 
-ad‧jec‧tive /ˈædʒəktɪv/ ●●● noun [countable]
+ad·jec·tive /ˈædʒəktɪv, ˈædʒɪktɪv/ noun [countable]
 
 - a word that describes a noun or pronoun. In the phrase ‘black hat’, ‘black’ is
   an adjective and in the sentence ‘It makes her happy’, ‘happy’ is an adjective.
